@@ -1,1 +1,64 @@
-.quote-section{padding:17em 0;position:relative;background-image:url(../../assets/images/quote-img.webp);background-attachment:fixed;color:white}.quote-section .overlay{position:absolute;top:0;left:0;right:0;bottom:0;background:#242a35;opacity:.7}.quote-section .h2{font-size:40px;font-weight:900}@media (min-width:200px) and (max-width:768px){.quote-section{padding:8em 0}}
+/*.quote-section {
+	padding: 17em 0;
+	position: relative;
+	background-image: url(../../assets/images/quote-img.webp);
+	background-attachment: fixed;
+	color: white
+}
+
+	.quote-section .overlay {
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background: #242a35;
+		opacity: .7
+	}
+
+	.quote-section .h2 {
+		font-size: 40px;
+		font-weight: 900
+	}
+
+@media (min-width:200px) and (max-width:768px) {
+	.quote-section {
+		padding: 8em 0
+	}
+}*/
+
+
+/* Container for the GIF Grid */
+.gif-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr); /* 3 columns */
+	grid-template-rows: repeat(2, 1fr); /* 2 rows */
+	gap: 20px; /* Space between items */
+	background-image: url(../../assets/images/quote-img.webp);
+	background-attachment: fixed;
+	padding: 20px;
+}
+
+/* Individual GIF Items */
+.gif-item {
+	position: relative;
+	width: 100%;
+	padding-top: 100%; /* Makes it a square */
+	overflow: hidden;
+	cursor: pointer;
+}
+
+	.gif-item img {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		transition: opacity 0.3s ease;
+	}
+
+	.gif-item:hover {
+		cursor: pointer;
+		border: 2px solid #ccc;
+	}

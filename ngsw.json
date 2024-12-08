@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1733617643148,
+  "timestamp": 1733634920625,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/47.c2a1ed6796249b2f.js",
+        "/47.0482001e35b99497.js",
         "/872.2eb1c1ed49520299.js",
         "/favicon.ico",
         "/index.html",
         "/main.7da5973db3ddde08.js",
         "/polyfills.0fb3264f5a32ccd3.js",
-        "/runtime.c9b15a265fcfdf95.js",
-        "/scripts.f03f1acb9995c169.js",
+        "/runtime.abc1bd0c268795f2.js",
+        "/scripts.9bd886cd89c2be51.js",
         "/styles.61b0674320f41b27.css"
       ],
       "patterns": []
@@ -84,10 +84,16 @@
         "/assets/images/portfolio/AI-Image-Caption-Bot.webp",
         "/assets/images/portfolio/AI-Music-Generation.webp",
         "/assets/images/portfolio/E-Commerce-Site.webp",
+        "/assets/images/portfolio/Functionally-Graded-Spatial-Printing.webp",
+        "/assets/images/portfolio/RevitModelHealthMetricsDashBoard.webp",
         "/assets/images/portfolio/School-Donation-Analysis.webp",
+        "/assets/images/portfolio/Spatial_Rhino7.webp",
         "/assets/images/portfolio/URL-Shortner.webp",
+        "/assets/images/portfolio/VoxelizeGeometry.webp",
         "/assets/images/quote-img.webp",
         "/assets/images/safari-pinned-tab.svg",
+        "/assets/images/test.gif",
+        "/assets/images/test.webp",
         "/assets/js/live2d.min.js",
         "/assets/js/particles.min.js",
         "/assets/js/typed.min.js",
@@ -111,7 +117,7 @@
         "/fa-solid-900.d80d93face7fbbc1.eot",
         "/favicon-16x16.png",
         "/favicon-32x32.png",
-        "/quote-img.5e642c8eee792695.webp"
+        "/quote-img.4171f860825cfcd2.webp"
       ],
       "patterns": []
     }
@@ -119,13 +125,13 @@
   "dataGroups": [],
   "hashTable": {
     "/404.4ed6dad8c73a710d.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
-    "/47.c2a1ed6796249b2f.js": "12795970e5ce1325b511056e34d625d4b83d0fcf",
+    "/47.0482001e35b99497.js": "70b0e9bea66efbbb3f9cd43e617165f398d69855",
     "/872.2eb1c1ed49520299.js": "276a91d681cb978a122c25099d400aa7ddc02193",
     "/about-bg.7c80c2136d4a089d.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
     "/apple-touch-icon.png": "8218fb45b26dea0f140a388bcc06c918d08f1d1d",
     "/assets/css/animate.min.css": "4ce4e9a3c083a51cc474b62f755108b9c81e5881",
     "/assets/css/font-awesome.min.css": "daa3daa1dfb9c80bb635d4db60bf77bc6fd6d7fa",
-    "/assets/data.min.js": "a658b8302cabfd790e64e131d2ee41abe52e0d8d",
+    "/assets/data.min.js": "7a0a1592eec0bc72665d0f8fc008a38fbe015078",
     "/assets/fonts/BlackOpsOne.eot": "a922adecfeba3ea43f4e644183728cdd1692dbb4",
     "/assets/fonts/BlackOpsOne.svg": "7c13e5df4822e44cfe78f1291757ef7fc4af6d8a",
     "/assets/fonts/BlackOpsOne.ttf": "024e07e45eefb57d4e55fffc082711c2d653e941",
@@ -173,10 +179,16 @@
     "/assets/images/portfolio/AI-Image-Caption-Bot.webp": "9253cd71d800ecb32a1c285b045ecef0cd9be4a2",
     "/assets/images/portfolio/AI-Music-Generation.webp": "318a35d17b17eb1dd866338f0811f8d285899e47",
     "/assets/images/portfolio/E-Commerce-Site.webp": "544b397ff8b64b490b9252c71a7c08905fe55e10",
+    "/assets/images/portfolio/Functionally-Graded-Spatial-Printing.webp": "d54c23717d5fa98b8284a9f4798a90a7fc868b0f",
+    "/assets/images/portfolio/RevitModelHealthMetricsDashBoard.webp": "e4fc4582e9fd4935ad2c7d9c651689752cc3f3cf",
     "/assets/images/portfolio/School-Donation-Analysis.webp": "ce5dc709992a20e339e135c211b37ef9db6ecd60",
+    "/assets/images/portfolio/Spatial_Rhino7.webp": "1d0206a1373ac85806132c4e147d1aae87a15931",
     "/assets/images/portfolio/URL-Shortner.webp": "a4b98fe5bf7658d5f1ceb2c79f87404f28f089db",
-    "/assets/images/quote-img.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
+    "/assets/images/portfolio/VoxelizeGeometry.webp": "8f1d2d074bc23c7e536d097e7c959cf8b1158c09",
+    "/assets/images/quote-img.webp": "ec8a53f5d7c152de27ae52b88492926c299986e9",
     "/assets/images/safari-pinned-tab.svg": "eaad958ea602bb91eb9ef52cea39c9ae95f0488f",
+    "/assets/images/test.gif": "87d8aea7c10de52c2c341681df7dbe079b8c12cd",
+    "/assets/images/test.webp": "f6f037b6f07f7e2dc83adeb31673747e7291daa1",
     "/assets/js/live2d.min.js": "c5d9130a03becdaf6a8013d4a3b9bd76c3f65c83",
     "/assets/js/particles.min.js": "385d4ff183cc00d570d7e3581036ad6b7b0db99a",
     "/assets/js/typed.min.js": "30d71da324a6f531b487fe911a77e800568c8812",
@@ -201,12 +213,12 @@
     "/favicon-16x16.png": "897f537be9e5741b714b45fab9d24a28830f22bd",
     "/favicon-32x32.png": "053c8fbd3b9a6acc1b02f32172933ddad15cb0c9",
     "/favicon.ico": "61ea5e23b3647a514301fbc841632aa209c0902f",
-    "/index.html": "0c6fe7a42b5cdfd27444eaac702d6ffe6a4cbc01",
+    "/index.html": "cf3460d4bd4e3da429804586bb6f0538f1352fa7",
     "/main.7da5973db3ddde08.js": "93a2ec9950eedc126013db7f0983ca0800f4ac3a",
     "/polyfills.0fb3264f5a32ccd3.js": "593e61c6d17bf340bd03d5b391f2c64bc9f50828",
-    "/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
-    "/runtime.c9b15a265fcfdf95.js": "2baa22442fbf91fe282e5f4bd6a2c07bab4097c6",
-    "/scripts.f03f1acb9995c169.js": "4b24f9d69f44d455c598626109f5b79bdcd9a332",
+    "/quote-img.4171f860825cfcd2.webp": "ec8a53f5d7c152de27ae52b88492926c299986e9",
+    "/runtime.abc1bd0c268795f2.js": "49aa6b2567712b93d7362040493e7896501165e7",
+    "/scripts.9bd886cd89c2be51.js": "719cd9f17ababd41bfc129af4d858e73450d0dda",
     "/styles.61b0674320f41b27.css": "a8112361291e8a53e8493502f3dcbe8841480cc4"
   },
   "navigationUrls": [
