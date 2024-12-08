@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1733634920625,
+  "timestamp": 1733684923454,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/47.0482001e35b99497.js",
+        "/47.13b845e0a6d830b6.js",
         "/872.2eb1c1ed49520299.js",
         "/favicon.ico",
         "/index.html",
-        "/main.7da5973db3ddde08.js",
+        "/main.3ff0979d20161484.js",
         "/polyfills.0fb3264f5a32ccd3.js",
-        "/runtime.abc1bd0c268795f2.js",
-        "/scripts.9bd886cd89c2be51.js",
+        "/runtime.41de46fa8458d714.js",
+        "/scripts.6e4851448d61cc1d.js",
         "/styles.61b0674320f41b27.css"
       ],
       "patterns": []
@@ -125,13 +125,13 @@
   "dataGroups": [],
   "hashTable": {
     "/404.4ed6dad8c73a710d.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
-    "/47.0482001e35b99497.js": "70b0e9bea66efbbb3f9cd43e617165f398d69855",
+    "/47.13b845e0a6d830b6.js": "634d3f51f1d27c83fd7468929efb9cb065a816eb",
     "/872.2eb1c1ed49520299.js": "276a91d681cb978a122c25099d400aa7ddc02193",
     "/about-bg.7c80c2136d4a089d.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
     "/apple-touch-icon.png": "8218fb45b26dea0f140a388bcc06c918d08f1d1d",
     "/assets/css/animate.min.css": "4ce4e9a3c083a51cc474b62f755108b9c81e5881",
     "/assets/css/font-awesome.min.css": "daa3daa1dfb9c80bb635d4db60bf77bc6fd6d7fa",
-    "/assets/data.min.js": "7a0a1592eec0bc72665d0f8fc008a38fbe015078",
+    "/assets/data.min.js": "3719c217aa73c6d075ab49c1bf8c8507eb1b0baa",
     "/assets/fonts/BlackOpsOne.eot": "a922adecfeba3ea43f4e644183728cdd1692dbb4",
     "/assets/fonts/BlackOpsOne.svg": "7c13e5df4822e44cfe78f1291757ef7fc4af6d8a",
     "/assets/fonts/BlackOpsOne.ttf": "024e07e45eefb57d4e55fffc082711c2d653e941",
@@ -159,9 +159,9 @@
     "/assets/images/Profile-pic-512x512.png": "80139e5184583d7d46d5b31fec625f00f934a6fa",
     "/assets/images/Profile-pic.webp": "ca2b9f0081dfb67f0bba1e532785ae7360f1ddce",
     "/assets/images/about-bg.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
-    "/assets/images/achievement/DataScience.webp": "d17f698e61b409b529a209fcf6620a9b415dbd7e",
-    "/assets/images/achievement/HackerRank.webp": "0d4df017c764d5e16a7e847e43bd21af8f061c26",
-    "/assets/images/achievement/Hacktoberfest.webp": "1dc3b04d84f75f5620f84b0f97ca1c913f1d36ee",
+    "/assets/images/achievement/DataScience.webp": "295e234191ab578778f144d2eef70dffd8e9a278",
+    "/assets/images/achievement/HackerRank.webp": "6604420428be55ad4377cd521004c90423068f72",
+    "/assets/images/achievement/Hacktoberfest.webp": "2e4771e0aa535225ea9c28a2bf508a50891cc576",
     "/assets/images/background-image.jpg": "d3289daed2cfbabe7c9e41333527ee89f83a3d9b",
     "/assets/images/bgimg.webp": "c496b70af352a08921a45326431da2cdc5d61f5a",
     "/assets/images/footer-cloud.svg": "1155d58266f7d048187fadd916618298c0daf9e3",
@@ -213,12 +213,12 @@
     "/favicon-16x16.png": "897f537be9e5741b714b45fab9d24a28830f22bd",
     "/favicon-32x32.png": "053c8fbd3b9a6acc1b02f32172933ddad15cb0c9",
     "/favicon.ico": "61ea5e23b3647a514301fbc841632aa209c0902f",
-    "/index.html": "cf3460d4bd4e3da429804586bb6f0538f1352fa7",
-    "/main.7da5973db3ddde08.js": "93a2ec9950eedc126013db7f0983ca0800f4ac3a",
+    "/index.html": "805554ed3a81b28ac6036f9c4738ce848665d2e8",
+    "/main.3ff0979d20161484.js": "7f790dc43ba449ad64b8180abe70a27df7e45d51",
     "/polyfills.0fb3264f5a32ccd3.js": "593e61c6d17bf340bd03d5b391f2c64bc9f50828",
     "/quote-img.4171f860825cfcd2.webp": "ec8a53f5d7c152de27ae52b88492926c299986e9",
-    "/runtime.abc1bd0c268795f2.js": "49aa6b2567712b93d7362040493e7896501165e7",
-    "/scripts.9bd886cd89c2be51.js": "719cd9f17ababd41bfc129af4d858e73450d0dda",
+    "/runtime.41de46fa8458d714.js": "973659aeeb606990d644ad3e3ba24b7656ddc2d3",
+    "/scripts.6e4851448d61cc1d.js": "138d3a10ebf1c6e0ed4838a3a5416ecaa81a96c2",
     "/styles.61b0674320f41b27.css": "a8112361291e8a53e8493502f3dcbe8841480cc4"
   },
   "navigationUrls": [
